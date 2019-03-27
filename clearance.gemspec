@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
 
   s.add_dependency 'bcrypt'
-  s.add_dependency 'email_validator', '~> 1.4'
+  s.add_dependency 'email_validator', '~> 2.0'
   s.add_dependency 'railties', '>= 3.1'
   s.add_dependency 'activemodel', '>= 3.1'
   s.add_dependency 'activerecord', '>= 3.1'
